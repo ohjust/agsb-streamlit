@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "btpp05"         # 用户名
 UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
-PORT = 8001                   # Vmess端口，留空或0则自动生成
+PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "streamlit.5201972.xyz"                   # 域名，留空则自动获取
 TOKEN = "eyJhIjoiZmJkN2VhODFlMjI1MWIzMWMyYmJmNWJmZTFkY2Q3OWEiLCJ0IjoiMWU2OWU5ZjEtZTAyOS00ZGI2LWI0MmItYjNkMDBhY2NmOWQ5IiwicyI6IlpqSmlZekJtTXpNdE1XTmxZaTAwTURsaUxUZ3hPRE10TlRGak0yUmxOV1kwT0dZNSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
